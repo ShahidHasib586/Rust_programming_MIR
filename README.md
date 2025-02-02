@@ -6,9 +6,13 @@ This repository contains Rust programming exercises, projects, and notes for the
 Contents
 
 ✅ Rust Basics: Syntax, Ownership, Borrowing
+
 ✅ Data Structures & Algorithms
+
 ✅ Concurrency & Parallelism
+
 ✅ Systems Programming & Performance Optimization
+
 ✅ MIR-Specific Applications
 
 This repository is a work in progress, and contributions are welcome! 🚀
